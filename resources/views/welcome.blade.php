@@ -20,14 +20,14 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
     <!-- This site is optimized with the Yoast SEO plugin v27.4 - https://yoast.com/product/yoast-seo-wordpress/ -->
-    <link rel="canonical" href="https://nettvcable.online/" />
+    <link rel="canonical" href="https://cablenethub.online/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best TV Cable Services and Guide | CableNetHub" />
     <meta property="og:description"
         content="CableNetHub &#8211; TV Cable Help, Guide &#038; Information CableNetHub TV Cable Guide, Help &#038; Information TV Cable Made Simple CableNetHub provides clear guidance and easy-to-understand information about TV cable services. Whether you are exploring options or setting up your connection, everything is explained in a simple and helpful way. 📞 Call Now: (844) 679-1496 📺 [&hellip;]" />
-    <meta property="og:url" content="https://nettvcable.online/" />
-    <meta property="og:site_name" content="nettvcable.online" />
+    <meta property="og:url" content="https://cablenethub.online/" />
+    <meta property="og:site_name" content="cablenethub.online" />
     <meta property="article:modified_time" content="2026-04-21T16:41:17+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
     <script type="application/ld+json" class="yoast-schema-graph">
@@ -35,25 +35,25 @@
             "@context": "https:\/\/schema.org",
             "@graph": [{
                 "@type": "WebPage",
-                "@id": "https:\/\/nettvcable.online\/",
-                "url": "https:\/\/nettvcable.online\/",
+                "@id": "https:\/\/cablenethub.online\/",
+                "url": "https:\/\/cablenethub.online\/",
                 "name": "Best TV Cable Services and Guide | NETTVCABLE",
                 "isPartOf": {
-                    "@id": "https:\/\/nettvcable.online\/#website"
+                    "@id": "https:\/\/cablenethub.online\/#website"
                 },
                 "datePublished": "2026-04-21T15:10:19+00:00",
                 "dateModified": "2026-04-21T16:41:17+00:00",
                 "breadcrumb": {
-                    "@id": "https:\/\/nettvcable.online\/#breadcrumb"
+                    "@id": "https:\/\/cablenethub.online\/#breadcrumb"
                 },
                 "inLanguage": "en-US",
                 "potentialAction": [{
                     "@type": "ReadAction",
-                    "target": ["https:\/\/nettvcable.online\/"]
+                    "target": ["https:\/\/cablenethub.online\/"]
                 }]
             }, {
                 "@type": "BreadcrumbList",
-                "@id": "https:\/\/nettvcable.online\/#breadcrumb",
+                "@id": "https:\/\/cablenethub.online\/#breadcrumb",
                 "itemListElement": [{
                     "@type": "ListItem",
                     "position": 1,
@@ -61,15 +61,15 @@
                 }]
             }, {
                 "@type": "WebSite",
-                "@id": "https:\/\/nettvcable.online\/#website",
-                "url": "https:\/\/nettvcable.online\/",
-                "name": "nettvcable.online",
+                "@id": "https:\/\/cablenethub.online\/#website",
+                "url": "https:\/\/cablenethub.online\/",
+                "name": "cablenethub.online",
                 "description": "",
                 "potentialAction": [{
                     "@type": "SearchAction",
                     "target": {
                         "@type": "EntryPoint",
-                        "urlTemplate": "https:\/\/nettvcable.online\/?s={search_term_string}"
+                        "urlTemplate": "https:\/\/cablenethub.online\/?s={search_term_string}"
                     },
                     "query-input": {
                         "@type": "PropertyValueSpecification",
@@ -1045,7 +1045,7 @@
             overflow-x: auto
         }
 
-        /*# sourceURL=https://nettvcable.online/wp-content/themes/twentytwentyfive/style.min.css */
+        /*# sourceURL=https://cablenethub.online/wp-content/themes/twentytwentyfive/style.min.css */
     </style>
     <style id='elementor-frontend-inline-css'>
         .e-heading-base a,
@@ -1061,10 +1061,6 @@
 
         /*# sourceURL=elementor-frontend-inline-css */
     </style>
-
-    <link rel="https://api.w.org/" href="https://nettvcable.online/wp-json/" />
-    <link rel="alternate" title="JSON" type="application/json" href="https://nettvcable.online/wp-json/wp/v2/pages/7" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nettvcable.online/xmlrpc.php?rsd" />
     <meta name="generator" content="WordPress 6.9.4" />
 
     <meta name="generator"
@@ -1097,7 +1093,7 @@
             font-style: normal;
             font-weight: 200 800;
             font-display: fallback;
-            src: url('https://nettvcable.online/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2') format('woff2');
+            src: url('https://cablenethub.online/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2') format('woff2');
         }
 
         @font-face {
@@ -1105,7 +1101,7 @@
             font-style: normal;
             font-weight: 300 700;
             font-display: fallback;
-            src: url('https://nettvcable.online/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2') format('woff2');
+            src: url('https://cablenethub.online/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2') format('woff2');
         }
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
