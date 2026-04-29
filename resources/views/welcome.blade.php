@@ -12,7 +12,8 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best TV Cable Services and Guide | NETTVCABLE" />
-    <meta property="og:description" content="NETTVCABLE &#8211; TV Cable Help, Guide &#038; Information NETTVCABLE TV Cable Guide, Help &#038; Information TV Cable Made Simple NETTVCABLE provides clear guidance and easy-to-understand information about TV cable services. Whether you are exploring options or setting up your connection, everything is explained in a simple and helpful way. 📞 Call Now: (833) 624-6761 📺 [&hellip;]" />
+    <meta property="og:description"
+        content="NETTVCABLE &#8211; TV Cable Help, Guide &#038; Information NETTVCABLE TV Cable Guide, Help &#038; Information TV Cable Made Simple NETTVCABLE provides clear guidance and easy-to-understand information about TV cable services. Whether you are exploring options or setting up your connection, everything is explained in a simple and helpful way. 📞 Call Now: (833) 624-6761 📺 [&hellip;]" />
     <meta property="og:url" content="https://nettvcable.online/" />
     <meta property="og:site_name" content="nettvcable.online" />
     <meta property="article:modified_time" content="2026-04-21T16:41:17+00:00" />
@@ -72,10 +73,6 @@
 
 
     <title>Best TV Cable Services and Guide | NETTVCABLE</title>
-    <link rel="alternate" type="application/rss+xml" title="nettvcable.online &raquo; Feed" href="https://nettvcable.online/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="nettvcable.online &raquo; Comments Feed" href="https://nettvcable.online/comments/feed/" />
-    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://nettvcable.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnettvcable.online%2F" />
-    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://nettvcable.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnettvcable.online%2F&#038;format=xml" />
     <style id='wp-img-auto-sizes-contain-inline-css'>
         img:is([sizes=auto i], [sizes^="auto," i]) {
             contain-intrinsic-size: 3000px 1500px
@@ -992,7 +989,6 @@
 
         /*# sourceURL=wp-block-template-skip-link-inline-css */
     </style>
-    <link rel='stylesheet' id='hostinger-reach-subscription-block-css' href='https://nettvcable.online/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription.css?ver=1776783980' media='all' />
     <style id='twentytwentyfive-style-inline-css'>
         a {
             text-decoration-thickness: 1px !important;
@@ -1039,7 +1035,6 @@
 
         /*# sourceURL=https://nettvcable.online/wp-content/themes/twentytwentyfive/style.min.css */
     </style>
-    <link rel='stylesheet' id='elementor-frontend-css' href='https://nettvcable.online/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.3' media='all' />
     <style id='elementor-frontend-inline-css'>
         .e-heading-base a,
         .e-paragraph-base a {
@@ -1054,19 +1049,11 @@
 
         /*# sourceURL=elementor-frontend-inline-css */
     </style>
-    <link rel='stylesheet' id='elementor-post-6-css' href='https://nettvcable.online/wp-content/uploads/elementor/css/post-6.css?ver=1776784230' media='all' />
-    <link rel='stylesheet' id='elementor-post-7-css' href='https://nettvcable.online/wp-content/uploads/elementor/css/post-7.css?ver=1776784441' media='all' />
-    <link rel='stylesheet' id='base-desktop-css' href='https://nettvcable.online/wp-content/uploads/elementor/css/base-desktop.css?ver=69e793662f6df' media='all' />
-    <link rel='stylesheet' id='wp-block-paragraph-css' href='https://nettvcable.online/wp-includes/blocks/paragraph/style.min.css?ver=6.9.4' media='all' />
-    <link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
-    <link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
-    <script src="https://nettvcable.online/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script src="https://nettvcable.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+
     <link rel="https://api.w.org/" href="https://nettvcable.online/wp-json/" />
     <link rel="alternate" title="JSON" type="application/json" href="https://nettvcable.online/wp-json/wp/v2/pages/7" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nettvcable.online/xmlrpc.php?rsd" />
     <meta name="generator" content="WordPress 6.9.4" />
-    <link rel='shortlink' href='https://nettvcable.online/' />
     <!-- HFCM by 99 Robots - Snippet # 1: g tag -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18107461754">
@@ -1082,7 +1069,8 @@
         gtag('config', 'AW-18107461754');
     </script>
     <!-- /end HFCM by 99 Robots -->
-    <meta name="generator" content="Elementor 4.0.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+    <meta name="generator"
+        content="Elementor 4.0.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -1125,11 +1113,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 </head>
 
-<body class="home wp-singular page-template page-template-elementor_canvas page page-id-7 wp-embed-responsive wp-theme-twentytwentyfive elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-7">
+<body
+    class="home wp-singular page-template page-template-elementor_canvas page page-id-7 wp-embed-responsive wp-theme-twentytwentyfive elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-7">
     <div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7">
-        <div class="elementor-element elementor-element-8874bba e-flex e-con-boxed e-con e-parent" data-id="8874bba" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-8874bba e-flex e-con-boxed e-con e-parent" data-id="8874bba"
+            data-element_type="container" data-e-type="container">
             <div class="e-con-inner">
-                <div class="elementor-element elementor-element-ced837a elementor-widget elementor-widget-html" data-id="ced837a" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+                <div class="elementor-element elementor-element-ced837a elementor-widget elementor-widget-html"
+                    data-id="ced837a" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
                     <!DOCTYPE html>
                     <html lang="en">
 
@@ -1183,13 +1174,17 @@
                             </header>
 
                             <!-- HERO -->
-                            <section class="bg-gradient-to-r from-purple-600 to-indigo-600 text-white text-center py-16 px-6">
+                            <section
+                                class="bg-gradient-to-r from-purple-600 to-indigo-600 text-white text-center py-16 px-6">
                                 <h2 class="text-4xl font-bold mb-4">TV Cable Made Simple</h2>
                                 <p class="max-w-3xl mx-auto text-lg">
-                                    NETTVCABLE provides clear guidance and easy-to-understand information about TV cable services. Whether you are exploring options or setting up your connection, everything is explained in a simple and helpful way.
+                                    NETTVCABLE provides clear guidance and easy-to-understand information about TV cable
+                                    services. Whether you are exploring options or setting up your connection,
+                                    everything is explained in a simple and helpful way.
                                 </p>
 
-                                <button class="ntc-btn mt-6 bg-white text-purple-700 px-10 py-4 rounded-full font-bold shadow-lg">
+                                <button
+                                    class="ntc-btn mt-6 bg-white text-purple-700 px-10 py-4 rounded-full font-bold shadow-lg">
                                     📞 Call Now: (833) 624-6761
                                 </button>
                             </section>
@@ -1198,12 +1193,15 @@
                             <section class="max-w-6xl mx-auto py-16 px-6 grid md:grid-cols-4 gap-8">
 
                                 <!-- CARD 1 -->
-                                <div class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
+                                <div
+                                    class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
                                     <div>
                                         <div class="text-4xl mb-3">📺</div>
                                         <h3 class="font-bold text-lg mb-2">Cable Setup Made Clear</h3>
                                         <p class="text-gray-700">
-                                            Understanding how TV cable setup works can save time and avoid confusion. We explain the process in simple terms so you know what equipment is required, how connections work, and what to expect during setup from start to finish.
+                                            Understanding how TV cable setup works can save time and avoid confusion. We
+                                            explain the process in simple terms so you know what equipment is required,
+                                            how connections work, and what to expect during setup from start to finish.
                                         </p>
                                     </div>
                                     <button class="mt-6 bg-purple-600 text-white py-2 px-6 rounded-full font-semibold">
@@ -1212,12 +1210,15 @@
                                 </div>
 
                                 <!-- CARD 2 -->
-                                <div class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
+                                <div
+                                    class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
                                     <div>
                                         <div class="text-4xl mb-3">📋</div>
                                         <h3 class="font-bold text-lg mb-2">Service Details Explained</h3>
                                         <p class="text-gray-700">
-                                            TV cable services come with different features and channel options. We break down the details so you can understand how services work, what they include, and how they match your viewing preferences clearly.
+                                            TV cable services come with different features and channel options. We break
+                                            down the details so you can understand how services work, what they include,
+                                            and how they match your viewing preferences clearly.
                                         </p>
                                     </div>
                                     <button class="mt-6 bg-purple-600 text-white py-2 px-6 rounded-full font-semibold">
@@ -1226,12 +1227,15 @@
                                 </div>
 
                                 <!-- CARD 3 -->
-                                <div class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
+                                <div
+                                    class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
                                     <div>
                                         <div class="text-4xl mb-3">📘</div>
                                         <h3 class="font-bold text-lg mb-2">Easy Viewing Guide</h3>
                                         <p class="text-gray-700">
-                                            Our guide explains how TV cable works step by step, from installation to daily use. Everything is presented in a simple format so you can understand features, navigation, and usage without technical difficulty.
+                                            Our guide explains how TV cable works step by step, from installation to
+                                            daily use. Everything is presented in a simple format so you can understand
+                                            features, navigation, and usage without technical difficulty.
                                         </p>
                                     </div>
                                     <button class="mt-6 bg-purple-600 text-white py-2 px-6 rounded-full font-semibold">
@@ -1240,12 +1244,15 @@
                                 </div>
 
                                 <!-- CARD 4 -->
-                                <div class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
+                                <div
+                                    class="ntc-card bg-white p-8 rounded-2xl text-center flex flex-col justify-between">
                                     <div>
                                         <div class="text-4xl mb-3">☎️</div>
                                         <h3 class="font-bold text-lg mb-2">Quick Help Anytime</h3>
                                         <p class="text-gray-700">
-                                            If you have questions about TV cable services, getting clear answers quickly makes a big difference. We provide easy guidance so you can understand everything and move forward without delays.
+                                            If you have questions about TV cable services, getting clear answers quickly
+                                            makes a big difference. We provide easy guidance so you can understand
+                                            everything and move forward without delays.
                                         </p>
                                     </div>
                                     <button class="mt-6 bg-purple-600 text-white py-2 px-6 rounded-full font-semibold">
@@ -1258,30 +1265,41 @@
                             <!-- CONTENT -->
                             <section class="bg-white py-16 px-6">
                                 <div class="max-w-5xl mx-auto">
-                                    <h2 class="text-3xl font-bold mb-6 text-center">Simple TV Cable Information for Everyday Use</h2>
+                                    <h2 class="text-3xl font-bold mb-6 text-center">Simple TV Cable Information for
+                                        Everyday Use</h2>
 
                                     <p class="mb-4 text-gray-700">
-                                        TV cable remains one of the most popular ways to access entertainment at home. With a wide range of channels and content available, it provides flexibility and convenience for viewers. However, many users find it difficult to understand how services work.
+                                        TV cable remains one of the most popular ways to access entertainment at home.
+                                        With a wide range of channels and content available, it provides flexibility and
+                                        convenience for viewers. However, many users find it difficult to understand how
+                                        services work.
                                     </p>
 
                                     <p class="mb-4 text-gray-700">
-                                        Learning how TV cable operates can help you make better decisions. From signal transmission to home connection, understanding the basics ensures you get the most out of your service.
+                                        Learning how TV cable operates can help you make better decisions. From signal
+                                        transmission to home connection, understanding the basics ensures you get the
+                                        most out of your service.
                                     </p>
 
                                     <p class="mb-4 text-gray-700">
-                                        Choosing the right option depends on your viewing preferences. Some people prefer more channels, while others focus on specific types of content. Understanding these choices helps simplify your decision.
+                                        Choosing the right option depends on your viewing preferences. Some people
+                                        prefer more channels, while others focus on specific types of content.
+                                        Understanding these choices helps simplify your decision.
                                     </p>
 
                                     <p class="mb-4 text-gray-700">
-                                        Installation is another important part of the process. Knowing how everything connects ensures a smoother experience and helps avoid confusion during setup.
+                                        Installation is another important part of the process. Knowing how everything
+                                        connects ensures a smoother experience and helps avoid confusion during setup.
                                     </p>
 
                                     <p class="mb-4 text-gray-700">
-                                        Basic troubleshooting knowledge can also improve your experience. Understanding simple solutions helps you manage common issues quickly and easily.
+                                        Basic troubleshooting knowledge can also improve your experience. Understanding
+                                        simple solutions helps you manage common issues quickly and easily.
                                     </p>
 
                                     <p class="mb-4 text-gray-700">
-                                        NETTVCABLE focuses on providing clear and simple information so users can better understand TV cable services and make informed decisions with confidence.
+                                        NETTVCABLE focuses on providing clear and simple information so users can better
+                                        understand TV cable services and make informed decisions with confidence.
                                     </p>
 
                                 </div>
@@ -1294,7 +1312,8 @@
                                     Call now and get clear and simple guidance instantly.
                                 </p>
 
-                                <button class="ntc-btn bg-purple-600 text-white px-10 py-4 rounded-full font-bold shadow-lg">
+                                <button
+                                    class="ntc-btn bg-purple-600 text-white px-10 py-4 rounded-full font-bold shadow-lg">
                                     📞 Call Now: (833) 624-6761
                                 </button>
                             </section>
@@ -1304,7 +1323,10 @@
                                 <div class="max-w-5xl mx-auto text-center">
                                     <h2 class="text-2xl font-bold mb-4">Disclaimer</h2>
                                     <p class="text-gray-700">
-                                        NETTVCABLE is an independent informational platform that provides guidance and general information about TV cable services. We do not provide TV cable services, sell subscriptions, or process payments. All services and agreements are handled directly by respective providers.
+                                        NETTVCABLE is an independent informational platform that provides guidance and
+                                        general information about TV cable services. We do not provide TV cable
+                                        services, sell subscriptions, or process payments. All services and agreements
+                                        are handled directly by respective providers.
                                     </p>
                                 </div>
                             </section>
@@ -1323,337 +1345,6 @@
             </div>
         </div>
     </div>
-    <script type="speculationrules">
-        {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/twentytwentyfive/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
-    <script>
-        const lazyloadRunObserver = () => {
-            const lazyloadBackgrounds = document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
-            const lazyloadBackgroundObserver = new IntersectionObserver((entries) => {
-                entries.forEach((entry) => {
-                    if (entry.isIntersecting) {
-                        let lazyloadBackground = entry.target;
-                        if (lazyloadBackground) {
-                            lazyloadBackground.classList.add('e-lazyloaded');
-                        }
-                        lazyloadBackgroundObserver.unobserve(entry.target);
-                    }
-                });
-            }, {
-                rootMargin: '200px 0px 200px 0px'
-            });
-            lazyloadBackgrounds.forEach((lazyloadBackground) => {
-                lazyloadBackgroundObserver.observe(lazyloadBackground);
-            });
-        };
-        const events = [
-            'DOMContentLoaded',
-            'elementor/lazyload/observe',
-        ];
-        events.forEach((event) => {
-            document.addEventListener(event, lazyloadRunObserver);
-        });
-    </script>
-    <script id="wp-block-template-skip-link-js-after">
-        (function() {
-            var skipLinkTarget = document.querySelector('main'),
-                sibling,
-                skipLinkTargetID,
-                skipLink;
-
-            // Early exit if a skip-link target can't be located.
-            if (!skipLinkTarget) {
-                return;
-            }
-
-            /*
-             * Get the site wrapper.
-             * The skip-link will be injected in the beginning of it.
-             */
-            sibling = document.querySelector('.wp-site-blocks');
-
-            // Early exit if the root element was not found.
-            if (!sibling) {
-                return;
-            }
-
-            // Get the skip-link target's ID, and generate one if it doesn't exist.
-            skipLinkTargetID = skipLinkTarget.id;
-            if (!skipLinkTargetID) {
-                skipLinkTargetID = 'wp--skip-link--target';
-                skipLinkTarget.id = skipLinkTargetID;
-            }
-
-            // Create the skip link.
-            skipLink = document.createElement('a');
-            skipLink.classList.add('skip-link', 'screen-reader-text');
-            skipLink.id = 'wp-skip-link';
-            skipLink.href = '#' + skipLinkTargetID;
-            skipLink.innerText = 'Skip to content';
-
-            // Inject the skip link.
-            sibling.parentElement.insertBefore(skipLink, sibling);
-        }());
-
-        //# sourceURL=wp-block-template-skip-link-js-after
-    </script>
-    <script id="hostinger-reach-subscription-block-view-js-extra">
-        var hostinger_reach_subscription_block_data = {
-            "endpoint": "https://nettvcable.online/wp-json/hostinger-reach/v1/contact",
-            "nonce": "a26fd13abf",
-            "translations": {
-                "thanks": "Thanks for subscribing.",
-                "error": "Something went wrong. Please try again."
-            }
-        };
-        //# sourceURL=hostinger-reach-subscription-block-view-js-extra
-    </script>
-    <script src="https://nettvcable.online/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1776783980" id="hostinger-reach-subscription-block-view-js"></script>
-    <script src="https://nettvcable.online/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.0.3" id="elementor-webpack-runtime-js"></script>
-    <script src="https://nettvcable.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.0.3" id="elementor-frontend-modules-js"></script>
-    <script src="https://nettvcable.online/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-    <script id="elementor-frontend-js-before">
-        var elementorFrontendConfig = {
-            "environmentMode": {
-                "edit": false,
-                "wpPreview": false,
-                "isScriptDebug": false
-            },
-            "i18n": {
-                "shareOnFacebook": "Share on Facebook",
-                "shareOnTwitter": "Share on Twitter",
-                "pinIt": "Pin it",
-                "download": "Download",
-                "downloadImage": "Download image",
-                "fullscreen": "Fullscreen",
-                "zoom": "Zoom",
-                "share": "Share",
-                "playVideo": "Play Video",
-                "previous": "Previous",
-                "next": "Next",
-                "close": "Close",
-                "a11yCarouselPrevSlideMessage": "Previous slide",
-                "a11yCarouselNextSlideMessage": "Next slide",
-                "a11yCarouselFirstSlideMessage": "This is the first slide",
-                "a11yCarouselLastSlideMessage": "This is the last slide",
-                "a11yCarouselPaginationBulletMessage": "Go to slide"
-            },
-            "is_rtl": false,
-            "breakpoints": {
-                "xs": 0,
-                "sm": 480,
-                "md": 768,
-                "lg": 1025,
-                "xl": 1440,
-                "xxl": 1600
-            },
-            "responsive": {
-                "breakpoints": {
-                    "mobile": {
-                        "label": "Mobile Portrait",
-                        "value": 767,
-                        "default_value": 767,
-                        "direction": "max",
-                        "is_enabled": true
-                    },
-                    "mobile_extra": {
-                        "label": "Mobile Landscape",
-                        "value": 880,
-                        "default_value": 880,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "tablet": {
-                        "label": "Tablet Portrait",
-                        "value": 1024,
-                        "default_value": 1024,
-                        "direction": "max",
-                        "is_enabled": true
-                    },
-                    "tablet_extra": {
-                        "label": "Tablet Landscape",
-                        "value": 1200,
-                        "default_value": 1200,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "laptop": {
-                        "label": "Laptop",
-                        "value": 1366,
-                        "default_value": 1366,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "widescreen": {
-                        "label": "Widescreen",
-                        "value": 2400,
-                        "default_value": 2400,
-                        "direction": "min",
-                        "is_enabled": false
-                    }
-                },
-                "hasCustomBreakpoints": false
-            },
-            "version": "4.0.3",
-            "is_static": false,
-            "experimentalFeatures": {
-                "e_font_icon_svg": true,
-                "additional_custom_breakpoints": true,
-                "container": true,
-                "e_optimized_markup": true,
-                "e_pro_free_trial_popup": true,
-                "nested-elements": true,
-                "e_atomic_elements": true,
-                "atomic_widgets_should_enforce_capabilities": true,
-                "editor_mcp": true,
-                "e_bc_migrations": true,
-                "e_classes": true,
-                "global_classes_should_enforce_capabilities": true,
-                "e_variables": true,
-                "e_variables_manager": true,
-                "e_opt_in_v4_page": true,
-                "e_opt_in_v4": true,
-                "e_components": true,
-                "e_interactions": true,
-                "e_widget_creation": true,
-                "import-export-customization": true
-            },
-            "urls": {
-                "assets": "https:\/\/nettvcable.online\/wp-content\/plugins\/elementor\/assets\/",
-                "ajaxurl": "https:\/\/nettvcable.online\/wp-admin\/admin-ajax.php",
-                "uploadUrl": "https:\/\/nettvcable.online\/wp-content\/uploads"
-            },
-            "nonces": {
-                "floatingButtonsClickTracking": "28174b3c3a",
-                "atomicFormsSendForm": "d5b8ff5d39"
-            },
-            "swiperClass": "swiper",
-            "settings": {
-                "page": [],
-                "editorPreferences": []
-            },
-            "kit": {
-                "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
-                "global_image_lightbox": "yes",
-                "lightbox_enable_counter": "yes",
-                "lightbox_enable_fullscreen": "yes",
-                "lightbox_enable_zoom": "yes",
-                "lightbox_enable_share": "yes",
-                "lightbox_title_src": "title",
-                "lightbox_description_src": "description"
-            },
-            "post": {
-                "id": 7,
-                "title": "Best%20TV%20Cable%20Services%20and%20Guide%20%7C%20NETTVCABLE",
-                "excerpt": "",
-                "featuredImage": false
-            }
-        };
-        //# sourceURL=elementor-frontend-js-before
-    </script>
-    <script src="https://nettvcable.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.3" id="elementor-frontend-js"></script>
-    <script id="wp-emoji-settings" type="application/json">
-        {
-            "baseUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/",
-            "ext": ".png",
-            "svgUrl": "https://s.w.org/images/core/emoji/17.0.2/svg/",
-            "svgExt": ".svg",
-            "source": {
-                "concatemoji": "https://nettvcable.online/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"
-            }
-        }
-    </script>
-    <script type="module">
-        /*! This file is auto-generated */
-        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent),
-            o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"),
-            s = ["flag", "emoji"];
-
-        function i(e) {
-            try {
-                var t = {
-                    supportTests: e,
-                    timestamp: (new Date).valueOf()
-                };
-                sessionStorage.setItem(o, JSON.stringify(t))
-            } catch (e) {}
-        }
-
-        function c(e, t, n) {
-            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
-            t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
-            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0);
-            const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
-            return t.every((e, t) => e === a[t])
-        }
-
-        function p(e, t) {
-            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
-            var n = e.getImageData(16, 16, 1, 1);
-            for (let e = 0; e < n.data.length; e++)
-                if (0 !== n.data[e]) return !1;
-            return !0
-        }
-
-        function u(e, t, n, a) {
-            switch (t) {
-                case "flag":
-                    return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
-                case "emoji":
-                    return !a(e, "\ud83e\u1fac8")
-            }
-            return !1
-        }
-
-        function f(e, t, n, a) {
-            let r;
-            const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", {
-                    willReadFrequently: !0
-                }),
-                s = (o.textBaseline = "top", o.font = "600 32px Arial", {});
-            return e.forEach(e => {
-                s[e] = t(o, e, n, a)
-            }), s
-        }
-
-        function r(e) {
-            var t = document.createElement("script");
-            t.src = e, t.defer = !0, document.head.appendChild(t)
-        }
-        a.supports = {
-            everything: !0,
-            everythingExceptFlag: !0
-        }, new Promise(t => {
-            let n = function() {
-                try {
-                    var e = JSON.parse(sessionStorage.getItem(o));
-                    if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
-                } catch (e) {}
-                return null
-            }();
-            if (!n) {
-                if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
-                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));",
-                        a = new Blob([e], {
-                            type: "text/javascript"
-                        });
-                    const r = new Worker(URL.createObjectURL(a), {
-                        name: "wpTestEmojiSupports"
-                    });
-                    return void(r.onmessage = e => {
-                        i(n = e.data), r.terminate(), t(n)
-                    })
-                } catch (e) {}
-                i(n = f(s, u, c, p))
-            }
-            t(n)
-        }).then(e => {
-            for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]);
-            var t;
-            a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji)))
-        });
-        //# sourceURL=https://nettvcable.online/wp-includes/js/wp-emoji-loader.min.js
-    </script>
 </body>
 
 </html>
